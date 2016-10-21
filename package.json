@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "koa-better-router": "^1.2.0"
+  },
+  "devDependencies": {
+    "koa": "^2.0.0"
+  }
+}
